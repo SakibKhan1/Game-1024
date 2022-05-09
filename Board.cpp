@@ -1,6 +1,7 @@
 //Name: Sakib Khan
 //Prof: Tong Yi
 //Assn: Game 1024 Task B 
+//Course: CSCI 135
 
 #include "Board.hpp"
 #include <iomanip>
